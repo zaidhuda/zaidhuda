@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@zaidhuda's Holopin board](https://holopin.io/api/user/board?user=zaidhuda)](https://holopin.io/@zaidhuda)
+
 <!--
 **zaidhuda/zaidhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
